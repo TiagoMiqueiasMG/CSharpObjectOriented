@@ -1,0 +1,14 @@
+D:\ObjectOriented\CSharpObjectOriented\Concepts\Concepts\bin\Debug\net7.0\Concepts.exe
+D:\ObjectOriented\CSharpObjectOriented\Concepts\Concepts\bin\Debug\net7.0\Concepts.deps.json
+D:\ObjectOriented\CSharpObjectOriented\Concepts\Concepts\bin\Debug\net7.0\Concepts.runtimeconfig.json
+D:\ObjectOriented\CSharpObjectOriented\Concepts\Concepts\bin\Debug\net7.0\Concepts.dll
+D:\ObjectOriented\CSharpObjectOriented\Concepts\Concepts\bin\Debug\net7.0\Concepts.pdb
+D:\ObjectOriented\CSharpObjectOriented\Concepts\Concepts\obj\Debug\net7.0\Concepts.GeneratedMSBuildEditorConfig.editorconfig
+D:\ObjectOriented\CSharpObjectOriented\Concepts\Concepts\obj\Debug\net7.0\Concepts.AssemblyInfoInputs.cache
+D:\ObjectOriented\CSharpObjectOriented\Concepts\Concepts\obj\Debug\net7.0\Concepts.AssemblyInfo.cs
+D:\ObjectOriented\CSharpObjectOriented\Concepts\Concepts\obj\Debug\net7.0\Concepts.csproj.CoreCompileInputs.cache
+D:\ObjectOriented\CSharpObjectOriented\Concepts\Concepts\obj\Debug\net7.0\Concepts.dll
+D:\ObjectOriented\CSharpObjectOriented\Concepts\Concepts\obj\Debug\net7.0\refint\Concepts.dll
+D:\ObjectOriented\CSharpObjectOriented\Concepts\Concepts\obj\Debug\net7.0\Concepts.pdb
+D:\ObjectOriented\CSharpObjectOriented\Concepts\Concepts\obj\Debug\net7.0\Concepts.genruntimeconfig.cache
+D:\ObjectOriented\CSharpObjectOriented\Concepts\Concepts\obj\Debug\net7.0\ref\Concepts.dll
