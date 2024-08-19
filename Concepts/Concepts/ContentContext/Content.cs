@@ -6,9 +6,12 @@ namespace Balta.ContentContext
     public class Content
     {   
         // Deixaremos o Id dentro do construtor da classe pai
-        public Content()
+        public Content(string tile, string url)
+            
         {
             Id = Guid.NewGuid();
+            Title = Title;
+            Url = url;
         }
 
         // Tudo que estiver aqui, será comum nas outras classes
