@@ -4,7 +4,7 @@ namespace Balta.ContentContext
     {
 
         public Career(string tile, string url)
-            :base (tile, url)
+            : base (tile, url)
         
         {
             Items = new List<CareerItem>();
