@@ -31,7 +31,7 @@ namespace MeuPrograma
             courses.Add(courseCsharp);
             courses.Add(courseAspNet);
 
-
+            
             var careers = new List<Career>();
             var careerDotnet = new Career("Especialista .NET", "especialista-dotnet");
             var careerItem2 = new CareerItem(3, "Aprenda .Net", "", courseAspNet);
