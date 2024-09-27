@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Linq;
 using Balta.ContentContext;
+using Balta.SubscriptionContext;
 
 namespace MeuPrograma
 {
@@ -54,10 +55,12 @@ namespace MeuPrograma
                     foreach(var notification in item.Notifications){
                         Console.WriteLine($"{notification.Property} - {notification.Message}");
                     }
-                }                
+                }   
+
+                var PayPalSubscription = new PayPalSubscription();
+                var student = new Student();
+                student.CreateSubscription(PayPalSubscription);
             }
-
-
 
         }
     }
