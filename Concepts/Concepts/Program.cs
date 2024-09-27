@@ -15,12 +15,12 @@ namespace MeuPrograma
             articles.Add(new Article("Artigo sobre .Net", "dotnet"));
 
 
-            foreach(var article in articles)
-            {
-                Console.WriteLine(article.Id);
-                Console.WriteLine(article.Title);
-                Console.WriteLine(article.Url);
-            }
+            // foreach(var article in articles)
+            // {
+            //     Console.WriteLine(article.Id);
+            //     Console.WriteLine(article.Title);
+            //     Console.WriteLine(article.Url);
+            // }
 
             var courses = new List<Course>();
             var courseOOP = new Course ("Fundamentos OOP", "fundamentos - oop");

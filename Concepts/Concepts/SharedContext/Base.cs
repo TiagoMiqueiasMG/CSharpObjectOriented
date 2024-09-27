@@ -1,7 +1,7 @@
 using System;
 using Balta.NotificationContext;
 
-namespace Balta.ContentContext{
+namespace Balta.SharedContext{
 
     public abstract class Base: Notifiable
     {
@@ -11,4 +11,4 @@ namespace Balta.ContentContext{
         }
         public Guid Id { get; set;}
     }
-}
+} 

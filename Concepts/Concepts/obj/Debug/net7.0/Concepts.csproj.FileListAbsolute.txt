@@ -12,3 +12,6 @@ D:\ObjectOriented\CSharpObjectOriented\Concepts\Concepts\obj\Debug\net7.0\refint
 D:\ObjectOriented\CSharpObjectOriented\Concepts\Concepts\obj\Debug\net7.0\Concepts.pdb
 D:\ObjectOriented\CSharpObjectOriented\Concepts\Concepts\obj\Debug\net7.0\Concepts.genruntimeconfig.cache
 D:\ObjectOriented\CSharpObjectOriented\Concepts\Concepts\obj\Debug\net7.0\ref\Concepts.dll
+D:\ObjectOriented\CSharpObjectOriented\Concepts\Concepts\obj\Debug\net7.0\Concepts.csproj.AssemblyReference.cache
+D:\ObjectOriented\CSharpObjectOriented\Concepts\concepts\bin\Debug\net7.0\Flunt.dll
+D:\ObjectOriented\CSharpObjectOriented\Concepts\concepts\obj\Debug\net7.0\Concepts.csproj.CopyComplete

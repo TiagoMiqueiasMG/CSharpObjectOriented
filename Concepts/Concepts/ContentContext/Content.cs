@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations;
+using Balta.SharedContext;
 
 namespace Balta.ContentContext
 
